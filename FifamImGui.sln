@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29201.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FifamImGui", "FifamImGui.vcxproj", "{8DACB981-88BD-4459-992E-7576F5ABCD59}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8DACB981-88BD-4459-992E-7576F5ABCD59}.Release|x86.ActiveCfg = Release|Win32
+		{8DACB981-88BD-4459-992E-7576F5ABCD59}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E283229E-B15B-4589-86C2-F9229FF156A0}
+	EndGlobalSection
+EndGlobal
